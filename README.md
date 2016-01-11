@@ -58,10 +58,12 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
                     | Value           | # of assignments  | % of grade
 -------------       | -------------   | ----------------- | -------------
-Class assignments   | 20 points/each  | 16                |
-Code reviews        | 20 points/each  | 16                |
-Project Proposal    | 100 points      | 1                 |
-Software Project    | 200 points      | 1                 |
+Class assignments   | 20 points/each  | 15                | 37.5 %
+Code reviews        | 20 points/each  | 15                | 37.5 %
+Project Proposal    | 50 points       | 1                 | 5.00 %
+Software Project    | 200 points      | 1                 | 20.0 %
+-------------       | -------------   | ----------------- | -------------
+Total               | 1000 points     | 32                | 100 %
 
 Your [Software Project](#software-project) grade will be assigned based on (1) my assessment of your work according to a rubric we will discuss in class (50 %) and (2) your classmates assessment of your work based on this same rubric (50%).
 
@@ -125,11 +127,11 @@ As mentioned above, your final assignment of this course will be to complete the
 
 ## Schedule
 
-| Date                | Subject                           | Chapter Due | Due
---------------------  | ------------------------------    | ----------- | ---------------
-14 Jan                | Syllabus; Prep; Installations     |             |               
-19 Jan                | Introduction to the CLI           |             | Assignment 1
-21 Jan                | Regular Expressions & Pseudocode  |             | Assignment 2
+| Date                | Subject                           | Chapter Due | Due             | Code Review
+--------------------  | ------------------------------    | ----------- | --------------- | ---------------
+14 Jan                | Syllabus; Prep; Installations     |             |                 |
+19 Jan                | Introduction to the CLI           |             | Assignment 1    |
+21 Jan                | Regular Expressions & Pseudocode  |             | Assignment 2    | Assignment 1
 26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assignment 3
 28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assignment 4
 2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assignment 5
