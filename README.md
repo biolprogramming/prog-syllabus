@@ -106,7 +106,7 @@ Two code-reviewers will be assigned systematically to review a given assignment 
 
 ### Software Project Proposal
 
-For your final assignment, you will be responsible for putting together a [Software Project](software-project) for this class that builds upon what you've learned during the course.
+For your final assignment, you will be responsible for putting together a [Software Project](#software-project) for this class that builds upon what you've learned during the course.
 
 Prior to starting your [Software Project][software-project] (or your group's [Software Project][software-project]), and about half-way through the course, you will write a 2-page proposal that:
 
@@ -117,7 +117,7 @@ Prior to starting your [Software Project][software-project] (or your group's [So
 
 This proposal should be heavy on the description of the problem you intend to solve; why it's important; and why it will benefit other people.  The details can be lighter on implementation.
 
-### [Software Project](#software-project)
+### [Software Project]
 
 As mentioned above, your final assignment of this course will be to complete the [Software Project][software-project] you proposed for this class.  This [Software Project][software-project] should build upon what you've learned during class but it is also **very important** that the [Software Project][software-project] incorporate things that we did not explicitly cover in class - your goal here is to grow beyond what I can teach you.  That could mean using a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
 
