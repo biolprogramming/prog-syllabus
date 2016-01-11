@@ -1,7 +1,7 @@
 # Computer Programming for Biologists
 
 * **Course:** [BIOL 7800, LSU](http://catalog.lsu.edu/preview_course_nopop.php?catoid=1&coid=1001)
-* ** Time/Location:** T/Th, 10:30 - 11:50 AM | 0206 Williams
+* **Time/Location:** T/Th, 10:30 - 11:50 AM | 0206 Williams
 * **Instructor:** [Brant Faircloth](https://github.com/brantfaircloth/)
 * **Need help?**
     * [Slack](https://biolprogramming.slack.com)
