@@ -16,10 +16,6 @@ The analysis of large data sets in biological research is becoming common, parti
 
 This course **is** going to challenge _and_ frustrate you.  A lot.  I promise.  You are learning a new language really quickly - that's a hard thing to do.  Along with the hard parts of learning a new language, in this case, comes having to learn a number of new tools that you have not (likely) been exposed to.  That's also really hard.  You're also going to have to actually **think** on top of all that. But, if you think, and work, and collaborate with your classmates to understand what's going on, you **will** end up learning much, much more in a shorter period of time than you expected.
 
-## Prerequisites
-
-An interest in programming and a willingness to learn.
-
 ## Textbook
 
 **Think Python: How to Think Like a Computer Scientist** by [Allen Downey](http://www.allendowney.com/wp/)
