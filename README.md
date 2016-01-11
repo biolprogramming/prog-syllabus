@@ -16,6 +16,14 @@ The analysis of large data sets in biological research is becoming common, parti
 
 This course **is** going to challenge _and_ frustrate you.  A lot.  I promise.  You are learning a new language really quickly - that's a hard thing to do.  Along with the hard parts of learning a new language, in this case, comes having to learn a number of new tools that you have not (likely) been exposed to.  That's also really hard.  You're also going to have to actually **think** on top of all that. But, if you think, and work, and collaborate with your classmates to understand what's going on, you **will** end up learning much, much more in a shorter period of time than you expected.
 
+## Teaching philosophy / Communication
+
+I'm here to _help_ you learn to program a computer.  It's up to you to learn how to make that work _for you_.  I view my role as providing guidance and direction and your role as using that guidance and direction to get where you want/need to go.  If you decide that you like this sort of thing, you will be teaching yourself this way for the rest of your life.  Better to learn how to do that now.
+
+Along those lines, I am not going to answer questions about this or that program/technique/assignment via email.  **All class communication should happen on [Slack](https://biolprogramming.slack.com)**, and almost all of that communication should happen in a open channel where your classmates can help you answer your question.  You should each be able to create additional #channels, if needed.  You should also take some time to learn about the features [Slack](https://biolprogramming.slack.com) offers, like code-formatting, etc.
+
+A wise person once said that "99% of bioinformatics is learning how google", and that idea is just as important when talking about computer programming.  Learn how to answer a question for yourself, test out some new ideas if you're close but not quite there, and you'll be kicking-ass in no time.
+
 ## Textbook
 
 **Think Python: How to Think Like a Computer Scientist** by [Allen Downey](http://www.allendowney.com/wp/)
@@ -102,7 +110,7 @@ If you are in the field during the first portion of class, I will work with you.
 
 There are no tests.  There are no exams.
 
-## Course Overview
+## Course overview
 
 The course will be a mix of lecture, in-class "active" learning, individual assignments, group assignments, and group projects.  That keeps it fun for all of us.  You will be expected to participate and complete the assignments given to you or your group.  You will also be expected to contribute equally during any and all group work.  **If you do not, I will ensure your grade reflects that lack of participation**.  See [Commitment to Community][#commitment-to-community] and [Academic Integrity][#academic-integrity] regarding my expectations with respect to being civil to your classmates and doing your own work.
 
