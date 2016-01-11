@@ -20,9 +20,9 @@ This course **is** going to challenge _and_ frustrate you.  A lot.  I promise.  
 
 I'm here to _help_ you learn to program a computer.  It's up to you to learn how to make that work _for you_.  I view my role as providing guidance and direction and your role as using that guidance and direction to get where you want/need to go.  If you decide that you like this sort of thing, you will be teaching yourself this way for the rest of your life.  Better to learn how to do that now.
 
-Along those lines, I am not going to answer questions about this or that program/technique/assignment via email.  **All class communication should happen on [Slack](https://biolprogramming.slack.com)**, and almost all of that communication should happen in a open channel where your classmates can help you answer your question.  You should each be able to create additional #channels, if needed.  You should also take some time to learn about the features [Slack](https://biolprogramming.slack.com) offers, like code-formatting, etc.
+Along those lines, I **am not** going to answer questions about this or that program/technique/assignment via email.  **All class communication should happen on [Slack](https://biolprogramming.slack.com)**, and almost all of that communication should happen in a open channel where your classmates can help you answer your question.  You should each be able to create additional #channels, if needed.  You should also take some time to learn about the features [Slack](https://biolprogramming.slack.com) offers, like code-formatting, etc.
 
-A wise person once said that "99% of bioinformatics is learning how google", and that idea is just as important when talking about computer programming.  Learn how to answer a question for yourself, test out some new ideas if you're close but not quite there, and you'll be kicking-ass in no time.
+A wise person once said that **"99% of bioinformatics is learning how to google"**, and that idea is just as important when talking about computer programming.  Learn how to answer a question for yourself, test out some new ideas if you're close but not quite there, and you'll be kicking-ass in no time.
 
 ## Textbook
 
