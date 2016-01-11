@@ -23,8 +23,9 @@ An interest in programming and a willingness to learn.
 ## Textbook
 
 **Think Python: How to Think Like a Computer Scientist** by [Allen Downey](http://www.allendowney.com/wp/)
-[html](http://www.greenteapress.com/thinkpython2/html/index.html)
-[pdf](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
+
+* [html](http://www.greenteapress.com/thinkpython2/html/index.html)
+* [pdf](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 This is a freely-avialable textbook.  We will follow parts of it for the class.  It is also an invaluable reference text when you need to remind yourself of relatively simple Python details.
 
@@ -40,7 +41,7 @@ We are actually using the [Anaconda Python Distribution](http://docs.continuum.i
 
 ### Why are we using Python 3.5.x?
 
-There exists a weird schism in the world where a now (much) older version of a programming language (Python 2.7.x) is used by many developers versus the newers (and mostly improved) version of that same language (Python 3.5.x).  The reasons for this are many and varied, but they largely dealt with the unavailability of many important packages in Python 3.5.x until "recently".
+There exists a weird schism in the world where a now (much) older version of a programming language (Python 2.7.x) is used by many developers versus the newer (and mostly improved) version of that same language (Python 3.5.x).  The reasons for this are many and varied, but they largely dealt with the unavailability of many important packages in Python 3.5.x until "recently".
 
 I would argue that the time is right for scientists to make the move to Python 3.5.x from Python 2.7.x.  So, we're starting that movement.  I also need to teach myself what has changed, and this is a pretty good way to do that.
 
@@ -62,28 +63,29 @@ Code reviews        | 20 points/each  | 16                |
 Project Proposal    | 100 points      | 1                 |
 Software Project    | 200 points      | 1                 |
 
-Your [Software Project][] grade will be assigned based on (1) my assessment of your work according to a rubric we will discuss in class (50 %) and (2) your classmates assessment of your work based on this same rubric (50%).
+Your [Software Project](#software-project) grade will be assigned based on (1) my assessment of your work according to a rubric we will discuss in class (50 %) and (2) your classmates assessment of your work based on this same rubric (50%).
 
 ## Grading expectations
 
-A significant portion of this course requires you to read, evaluate, and score the work of others.  The points that you earn for [Code reviews][] are based on how well you do this code-review.  If you fail to conduct that review or your review is sloppy, you will receive reduced (or zero) points for that [Code review][] assignment.
+A significant portion of this course requires you to read, evaluate, and score the work of others.  The points that you earn for [Code reviews](#code-review) are based on how well you do this code-review.  If you fail to conduct that review or your review is sloppy, you will receive reduced (or zero) points for that [Code review](#code-review) assignment.
 
 ### Grading scale
 
-Points Letter Grade Assigned
-970-1000 A+
-930-969 A
-900-929 A-
-870-899 B+
-830-869 B
-800-829 B-
-770-799 C+
-730-769 C
-700-729 C-
-670-699 D+
-630-669 D
-600-629 D-
-< 600   F
+Points        | Letter Grade Assigned
+--------------|----------------------
+970-1000      | A+
+930-969       | A
+900-929       | A-
+870-899       | B+
+830-869       | B
+800-829       | B-
+770-799       | C+
+730-769       | C
+700-729       | C-
+670-699       | D+
+630-669       | D
+600-629       | D-
+< 600         | F
 
 
 ## Course Overview
@@ -141,14 +143,12 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 
 ## Schedule
 
-| Date              | Subject                       | Chapter | Assignment Due
+| Date              | Subject                       | Chapter | Due
 --------------------| ------------------------------| ------- | ---------------
 14 Jan              | Syllabus; Prep; Installations |         |               
-19 Jan              |                               |         |
-
-
-21 Jan
-26 Jan
+19 Jan              | Introduction to the CLI       |         | Assignment 1
+21 Jan              | Regular Expressions           |         | Assignment 2
+26 Jan              | Python Variables/Expressions  |         | Assignment 3
 28 Jan
 2 Feb
 4 Feb
