@@ -58,16 +58,21 @@ One requirement of your [Software Project](#software-project) is that you releas
 
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
 
-                    | Value           | # of assignments  | % of grade
--------------       | -------------   | ----------------- | -------------
-Class assignments   | 20 points/each  | 15                | 37.5 %
-Code reviews        | 20 points/each  | 15                | 37.5 %
-Project Proposal    | 50 points       | 1                 | 5.00 %
-Software Project    | 200 points      | 1                 | 20.0 %
--------------       | -------------   | ----------------- | -------------
-Total               | 1000 points     | 32                | 100 %
+                                                | Points          | # of assignments  | % of grade
+-------------                                   | -------------   | ----------------- | -------------
+Class assignments                               | 20 each         | 15                | 37.5 %
+Code reviews                                    | 20 each         | 15                | 37.5 %
+[Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 5.00 %
+[Software Project](#software-project)           | 200 points      | 1                 | 20.0 %
+-------------                                   | -------------   | ----------------- | -------------
+Total                                           | 1000 points     | 32                | 100 %
 
-Your [Software Project](#software-project) grade will be assigned based on (1) my assessment of your work according to a rubric we will discuss in class (50 %) and (2) your classmates assessment of your work based on this same rubric (50%).
+Your [Software Project](#software-project) grade will be assigned based on:
+
+1. my assessment of your work according to a rubric we will discuss in class (50 %)
+2. your classmates assessment of your work based on this same rubric (50%)
+
+There is no extra-credit.
 
 ## Grading expectations
 
@@ -91,6 +96,11 @@ Points        | Letter Grade Assigned
 600-629       | D-
 < 600         | F
 
+## Absentee policy
+
+If you are in the field during the first portion of class, I will work with you.  Otherwise, if you don't turn in the assignments on time, you will lose points.  Class is optional, I guess.  But it will greatly benefit you to show up in class for the discussion and exercises that will give you a head-start on your assignments.
+
+There are no tests.  There are no exams.
 
 ## Course Overview
 
@@ -98,7 +108,7 @@ The course will be a mix of lecture, in-class "active" learning, individual assi
 
 ### Lecture
 
-Some portions of our class will be lecture-based.  These lectures will, for the most part, derive from the [Textbook][].  I, of course, will elaborate on certain items and focus less on others - as I feel they are appropriate.   It would be wise for you to **read any chapter of our [Textbook][] prior to coming to class**.  You may even want to read the same chapter, again, after lecture.  Repetition is one key to learning a new language efficiently and effectively.
+Some portions of our class will be lecture-based.  These lectures will, for the most part, derive from the [Textbook][#textbook] chapter or the URL provided in the [Schedule](#schedule) .  I, of course, will elaborate on some items and focus less on others - as I feel they are appropriate.   It would be wise for you to **read the assigned reading _prior_ to coming to class**.  You may want to read the same chapter, again, after lecture.  Repetition is one key to learning a new language efficiently.
 
 ### Class Assignments
 
