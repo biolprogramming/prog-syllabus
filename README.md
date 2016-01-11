@@ -68,8 +68,8 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
                                                 | Points          | # of assignments  | % of grade
 -------------                                   | -------------   | ----------------- | -------------
-[Class assignments](class-assignments)          | 20 each         | 15                | 37.5 %
-[Code reviews](code-reviews)                    | 20 each         | 15                | 37.5 %
+[Class assignments](#class-assignments)         | 20 each         | 15                | 37.5 %
+[Code reviews](#code-reviews)                   | 20 each         | 15                | 37.5 %
 [Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 5.00 %
 [Software Project](#software-project)           | 200 points      | 1                 | 20.0 %
 -------------                                   | -------------   | ----------------- | -------------
