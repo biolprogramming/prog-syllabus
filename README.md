@@ -123,43 +123,47 @@ This proposal should be heavy on the description of the problem you intend to so
 
 ### Software Project
 
-As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you proposed for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to grow beyond what I can teach you.  That could mean using a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
+As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you [proposed](#software-project-proposal) for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to move beyond only those things we covered in class.  That could mean writing a software package that uses a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
+
+As part of your software project, you will make a short presentation on the last day of class that described the problem your software package solves, your rational for the approach you used, how you implemented a solution, and gives a (live) example of the program in action.
+
+You will have several days after the live demo to fix any remaining problems with the package and address any comments from your classmates prior to the review of your final project code (your [Software Project](#software-project) is due 4 May).
 
 ## Schedule
 
 | Date                | Subject                           | Chapter Due | Due             | Code Review
 --------------------  | ------------------------------    | ----------- | --------------- | ---------------
 14 Jan                | Syllabus; Prep; Installations     |             |                 |
-19 Jan                | Introduction to the CLI           |             | Assignment 1    |
-21 Jan                | Regular Expressions & Pseudocode  |             | Assignment 2    | Assignment 1
-26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assignment 3
-28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assignment 4
-2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assignment 5
-4 Feb                 | Functions Part II                 | Chap [6](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.html)      | Assignment 6
+19 Jan                | Introduction to the CLI           |             | Assign 1        |
+21 Jan                | Regular Expressions & Pseudocode  |             | Assign 2        | Assign 1
+26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assign 3 | Assign 2
+28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assign 4 | Assign 3
+2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assign 5 | Assign 4
+4 Feb                 | Functions Part II                 | Chap [6](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.html)      | Assign 6 | Assign 5
 9 Feb (Mardi Gras)    | ---                               | ---         | ---         
-11 Feb                | Iteration                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assignment 7
-16 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assignment 8
-18 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assignment 9
-23 Feb                | Files                             | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assignment 10
-25 Feb                | Classes & objects                 | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html)     | Assignment 11
-1 Mar                 | Classes & functions               | Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html)     | Assignment 12
-3 Mar                 | Classes & methods                 | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html)     | Assignment 13
-8 Mar                 | Inheritance                       | Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html)     | Assignment 14
-10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assignment 15
-15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assignment 16
-17 Mar                | TDD and Documentation             |             | Assignment 17
+11 Feb                | Iteration                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assign 7 | Assign 6
+16 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assign 8 | Assign 7
+18 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assign 9 | Assign 8
+23 Feb                | Files                             | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assign 10 | Assign 9
+25 Feb                | Classes & objects                 | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html)     | Assign 11 | Assign 10
+1 Mar                 | Classes & functions               | Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html)     | Assign 12 | Assign 11
+3 Mar                 | Classes & methods                 | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html)     | Assign 13 | Assign 12
+8 Mar                 | Inheritance                       | Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html)     | Assign 14 | Assign 13
+10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 15 | Assign 14
+15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assign 16 | Assign 15
+17 Mar                | TDD and Documentation             |             | Assign 17 | Assign 16
 22 Mar (Spring Break) | ---                               | ---         | ---         
 24 Mar (Spring Break) | ---                               | ---         | ---         
 29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
-31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 18
-5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 19
-7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>| Assignment 20
-12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 21
-14 Apr                | BioPython + NCBI                  | ---         | Assignment 22
-19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 23
-21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assignment 24
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assignment 25
-28 Apr                | Software Project Demos            | ---         | Software project demo
+31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 18 | Assign 17
+5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assign 19 | Assign 18
+7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>| Assign 20 | Assign 19
+12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assign 21 | Assign 20
+14 Apr                | BioPython + NCBI                  | ---         | Assign 22 | Assign 21
+19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assign 23 | Assign 22
+21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 24 | Assign 23
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 25 | 24
+28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 25
 30 Apr (Classed end)  | ---                               | ---         | ---
 4 May                 | Final Software Projects Due       | ---         | Software project  
 
