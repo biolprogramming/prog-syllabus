@@ -29,7 +29,7 @@ This is a freely-avialable textbook.  We will follow parts of it for the class. 
 
 [Python](https://www.python.org/) 3.5.1
 
-We are actually using the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/index).  You want to **be sure** to download and installed Python 3.5.x for your operating system (Linux/OSX/Windows).  The [Anaconda](http://docs.continuum.io/anaconda/index) installers are linked, below:
+We are using the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/index).  You want to **be sure** to download and installed Python 3.5.x for your operating system (Linux/OSX/Windows).  The [Anaconda](http://docs.continuum.io/anaconda/index) installers are linked, below:
 
 * [OSX Installer](https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-2.4.1-MacOSX-x86_64.pkg)
 * [Windows Installer](https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-2.4.1-Windows-x86_64.exe)
@@ -47,6 +47,12 @@ I would argue that the time is right for scientists to make the move to Python 3
 2. Offers package manager for installing packages it's missing
 3. Has convenient "virtual" environments for testing
 4. Comes with many important, precompiled/preinstalled packages (ipython, numpy, requests, etc.)
+
+## Software License
+
+We are releasing the contents of this course (e.g. all my notes, all of our code) under an [open-source license](https://en.wikipedia.org/wiki/Open_source) ([BSD](https://en.wikipedia.org/wiki/BSD_licenses)).  As a member of this course, you agree to make your assignments, code review comments, and your final projects open-source, as well.  The reasons we are doing this are many, but it's one (very small) way that we can repay the debt we owe everyone else contributing to open source projects.
+
+One requirement of your [Software Project](#software-project) is that you release it on [github](https://github.com/) as an open-source project.
 
 ## Grading
 
