@@ -5,7 +5,7 @@
 * **Instructor:** [Brant Faircloth](https://github.com/brantfaircloth/)
 * **Need help?**
     * [Slack](https://biolprogramming.slack.com), don't email
-    * Problem with the syllabus? File an [issue](https://github.com/advanced-js/syllabus/issues)
+    * Problem with the syllabus? File an [issue](https://github.com/biolprogramming/syllabus/issues)
 * **Office Hours** T/Th 12:00 - 1:30 PM | 220 Life Sciences
 
 ## Course Description
@@ -14,7 +14,11 @@ The analysis of large data sets in biological research is becoming common, parti
 
 ## Course Credo
 
-This course **is** going to challenge _and_ frustrate you.  I promise.  You are learning a new language - that's a hard thing to do.  Along with the hard parts of learning a new language, in this case, comes having to learn a number of new tools that you have not (likely) been exposed to.  That's also really hard.  But, if you work through the hard parts, and work together to understand what's going on, you will end up learning much, much more in a shorter period of time than you expected.
+This course **is** going to challenge _and_ frustrate you.  A lot.  I promise.  You are learning a new language really quickly - that's a hard thing to do.  Along with the hard parts of learning a new language, in this case, comes having to learn a number of new tools that you have not (likely) been exposed to.  That's also really hard.  You're also goingt to have to actually **think** on top of all that. But, if you think, and work, and collaborate with your classmates to understand what's going on, you **will** end up learning much, much more in a shorter period of time than you expected.
+
+## Prerequisites
+
+An interest in programming and a willingness to learn.
 
 ## Textbook
 
@@ -28,7 +32,7 @@ This is a freely-avialable textbook.  We will follow parts of it for the class. 
 
 [Python](https://www.python.org/) 3.5.1
 
-We are actually using the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/index).  You want to **be sure** to download and installed Python 3.5.x for your operating system (Linux/OSX/Windows).  Those installer are linked, below:
+We are actually using the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/index).  You want to **be sure** to download and installed Python 3.5.x for your operating system (Linux/OSX/Windows).  The [Anaconda](http://docs.continuum.io/anaconda/index) installers are linked, below:
 
 * [OSX Installer](https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-2.4.1-MacOSX-x86_64.pkg)
 * [Windows Installer](https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda3-2.4.1-Windows-x86_64.exe)
@@ -48,8 +52,33 @@ I would argue that the time is right for scientists to make the move to Python 3
 4. Comes with many important, precompiled/preinstalled packages (ipython, numpy, requests, etc.)
 
 
+## Grading
 
+In accordance with the LSU grading policy, grades will be assigned using an A-F scale and +/- system.  Grading is pretty simple:
 
-## Prerequisites
+                    | Value           | # of assignments  | % of grade
+-------------       | -------------   | ----------------- | -------------
+Class assignments   | 20 points/each  | 16                |
+Code reviews        | 20 points/each  | 16                |
+Project Proposal    | 100 points      | 1                 |
+Final Project       | 200 points      | 1                 |
+
+### Grading scale
+
+Points Letter Grade Assigned
+970-1000 A+
+930-969 A
+900-929 A-
+870-899 B+
+830-869 B
+800-829 B-
+770-799 C+
+730-769 C
+700-729 C-
+670-699 D+
+630-669 D
+600-629 D-
+< 600   F
+
 
 ## Course Overview
