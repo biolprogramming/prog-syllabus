@@ -123,24 +123,6 @@ This proposal should be heavy on the description of the problem you intend to so
 
 As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you proposed for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to grow beyond what I can teach you.  That could mean using a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
 
-## Conduct
-
-### Commitment to Community
-
-You should be familiar with the LSU Commitment to Community, which is outlined [here](http://saa.lsu.edu/code-1-commitment). You should also be familiar with the LSU Code of Student Conduct, which is available [here](http://saa.lsu.edu/code).  You are expected to follow the Commitment to Community during your time in this class and when working on assignments outside of class.  Students who do not respect the instructor(s) or other members of the class will be asked to leave the lecture immediately.  This includes using the telephone, texting, or using the internet for non-class-related purposes during the lecture.
-
-### Academic Integrity
-
-I take academic integrity seriously.  You are expected to reference sources appropriately in your written work.  **You are _absolutely expected_ to reference _any_ third party computer code that you include in your assignments.** You may reference sources in your writing using any method that you prefer (footnotes, Chicago-style, MLA-format), although I expect any referenced material to be paraphrased and cited appropriately.  You may reference any computer code that you use using a URL link to the source of the code.
-
-If you need guidance relative to appropriately paraphrasing sources, please see [this link](http://saa.lsu.edu/about-paraphrasing).  If you need guidance relative to appropriately citing sources, please see [this link](http://www.chicagomanualofstyle.org/tools_citationguide.html).  If you have remaining questions or concerns, I am happy to help you during my office hours.
-
-You are expected to submit your own work for evaluation (or the work of your group, if a group assignment).
-
-### Academic Misconduct
-
-If I suspect that you have committed Academic Misconduct, I am required to report the incident to the Student Advocacy and Accountability office, and they will follow-up. Definitions of academic misconduct are provided [here](https://saa.lsu.edu/code-10_2-academic-misconduct).
-
 ## Schedule
 
 | Date                | Subject                           | Chapter Due | Due
@@ -180,3 +162,21 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 4 May                 | Final Software Projects Due       | ---         | Software project  
 
  <sup><a name="fnote1">1</a></sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
+
+ ## Conduct
+
+ ### Commitment to Community
+
+ You should be familiar with the LSU Commitment to Community, which is outlined [here](http://saa.lsu.edu/code-1-commitment). You should also be familiar with the LSU Code of Student Conduct, which is available [here](http://saa.lsu.edu/code).  You are expected to follow the Commitment to Community during your time in this class and when working on assignments outside of class.  Students who do not respect the instructor(s) or other members of the class will be asked to leave the lecture immediately.  This includes using the telephone, texting, or using the internet for non-class-related purposes during the lecture.
+
+ ### Academic Integrity
+
+ I take academic integrity seriously.  You are expected to reference sources appropriately in your written work.  **You are _absolutely expected_ to reference _any_ third party computer code that you include in your assignments.** You may reference sources in your writing using any method that you prefer (footnotes, Chicago-style, MLA-format), although I expect any referenced material to be paraphrased and cited appropriately.  You may reference any computer code that you use using a URL link to the source of the code.
+
+ If you need guidance relative to appropriately paraphrasing sources, please see [this link](http://saa.lsu.edu/about-paraphrasing).  If you need guidance relative to appropriately citing sources, please see [this link](http://www.chicagomanualofstyle.org/tools_citationguide.html).  If you have remaining questions or concerns, I am happy to help you during my office hours.
+
+ You are expected to submit your own work for evaluation (or the work of your group, if a group assignment).
+
+ ### Academic Misconduct
+
+ If I suspect that you have committed Academic Misconduct, I am required to report the incident to the Student Advocacy and Accountability office, and they will follow-up. Definitions of academic misconduct are provided [here](https://saa.lsu.edu/code-10_2-academic-misconduct).
