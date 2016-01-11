@@ -143,38 +143,40 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 
 ## Schedule
 
-| Date              | Subject                       | Chapter | Due
---------------------| ------------------------------| ------- | ---------------
-14 Jan              | Syllabus; Prep; Installations |         |               
-19 Jan              | Introduction to the CLI       |         | Assignment 1
-21 Jan              | Regular Expressions           |         | Assignment 2
-26 Jan              | Python Variables/Expressions  |         | Assignment 3
-28 Jan
-2 Feb
-4 Feb
-9 Feb (Mardi Gras)
-11 Feb
-16 Feb
-18 Feb
-23 Feb
-25 Feb
-1 Mar
-3 Mar
-8 Mar
-10 Mar
-15 Mar
-17 Mar
-22 Mar (Spring Break)
-24 Mar (Spring Break)
-29 Mar
-31 Mar
-5 Apr
-7 Apr
-12 Apr
-14 Apr
-19 Apr
-21 Apr
-26 Apr
-28 Apr
-30 Apr (Classed end)
-4 May
+| Date                | Subject                           | Chapter Due | Due
+--------------------  | ------------------------------    | ----------- | ---------------
+14 Jan                | Syllabus; Prep; Installations     |             |               
+19 Jan                | Introduction to the CLI           |             | Assignment 1
+21 Jan                | Regular Expressions & Pseudocode  |             | Assignment 2
+26 Jan                | Python Variables/Expressions      | Chap 1 & 2  | Assignment 3
+28 Jan                | Functions Part I                  | Chap 3      | Assignment 4
+2 Feb                 | Conditionals and Recursion        | Chap 5      | Assignment 5
+4 Feb                 | Functions Part II                 | Chap 6      | Assignment 6
+9 Feb (Mardi Gras)    | ---                               | ---         | ---         
+11 Feb                | Iteration                         | Chap 7      | Assignment 7
+16 Feb                | Strings & Lists                   | Chap 8 & 10 | Assignment 8
+18 Feb                | Dictionaries & Tuples             | Chap 11 & 12| Assignment 9
+23 Feb                | Files                             | Chap 14     | Assignment 10
+25 Feb                | Classes & objects                 | Chap 15     | Assignment 11
+1 Mar                 | Classes & functions               | Chap 16     | Assignment 12
+3 Mar                 | Classes & methods                 | Chap 17     | Assignment 13
+8 Mar                 | Inheritance                       | Chap 18     | Assignment 14
+10 Mar                | The Kitchen Sink                  | Chap 19     | Assignment 15
+15 Mar                | PEP8, programs, modules           | PEP 8       | Assignment 16
+17 Mar                | TDD and Documentation             |             |
+22 Mar (Spring Break) | ---                               | ---         | ---         
+24 Mar (Spring Break) | ---                               | ---         | ---         
+29 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
+31 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 17
+5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 18
+7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)* | Assignment 19
+12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 20
+14 Apr                | BioPython + NCBI                  | ---         | Assignment 21
+19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 22
+21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assignment 23
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assignment 24
+28 Apr                | Software Project Demos            | ---         | Software project demo
+30 Apr (Classed end)  | ---                               | ---         | ---
+4 May                 | Final Software Projects Due       | ---         | Software project
+
+* No, I do not expect you to read all 1800+ pages.  Check Chapters 5,6,8,9,10.
