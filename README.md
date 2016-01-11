@@ -8,3 +8,8 @@
     * Problem with the syllabus? File an [issue](https://github.com/advanced-js/syllabus/issues)
 * **Office Hours** T/Th 12:00 - 1:30 PM | 220 Life Sciences
 
+## Course Description
+
+## Prerequisites
+
+## Course Overview
