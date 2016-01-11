@@ -166,8 +166,8 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 17 Mar                | TDD and Documentation             |             |
 22 Mar (Spring Break) | ---                               | ---         | ---         
 24 Mar (Spring Break) | ---                               | ---         | ---         
-29 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
-31 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 17
+29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
+31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 17
 5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 18
 7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>*</sup> | Assignment 19
 12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 20
