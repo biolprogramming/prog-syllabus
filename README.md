@@ -96,7 +96,7 @@ Some portions of our class will be lecture-based.  These lectures will, for the 
 
 ### Class Assignments
 
-We will have assignments associated with almost every class period.  To receive credit for those assignments, you will need to turn them in on time. Your grade will be assigned by your classmates, who will be doing a majority of the [Code Reviews][] for each of your assignments.
+We will have assignments associated with almost every class period.  To receive credit for those assignments, you will need to turn them in on time. Your grade will be assigned by your classmates, who will be doing a majority of the [Code Reviews](#code-review) for each of your assignments.
 
 ### Code Reviews
 
@@ -108,18 +108,18 @@ Two code-reviewers will be assigned systematically to review a given assignment 
 
 For your final assignment, you will be responsible for putting together a [Software Project](#software-project) for this class that builds upon what you've learned during the course.
 
-Prior to starting your [Software Project][software-project] (or your group's [Software Project][software-project]), and about half-way through the course, you will write a 2-page proposal that:
+Prior to starting your [Software Project](#software-project) (or your group's [Software Project](#software-project)), and about half-way through the course, you will write a 2-page proposal that:
 
-* Describes the problem your [Software Project][software-project] will attempt to solve
+* Describes the problem your [Software Project](#software-project) will attempt to solve
 * Gives the rational for the solution you propose
 * Explains how (roughly) you plan to go about implementing a solution
 * Lists potential user-groups of the code you will write
 
 This proposal should be heavy on the description of the problem you intend to solve; why it's important; and why it will benefit other people.  The details can be lighter on implementation.
 
-### [Software Project]
+### Software Project
 
-As mentioned above, your final assignment of this course will be to complete the [Software Project][software-project] you proposed for this class.  This [Software Project][software-project] should build upon what you've learned during class but it is also **very important** that the [Software Project][software-project] incorporate things that we did not explicitly cover in class - your goal here is to grow beyond what I can teach you.  That could mean using a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
+As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you proposed for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to grow beyond what I can teach you.  That could mean using a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
 
 ## Conduct
 
@@ -131,7 +131,7 @@ You should be familiar with the LSU Commitment to Community, which is outlined [
 
 I take academic integrity seriously.  You are expected to reference sources appropriately in your written work.  **You are _absolutely expected_ to reference _any_ third party computer code that you include in your assignments.** You may reference sources in your writing using any method that you prefer (footnotes, Chicago-style, MLA-format), although I expect any referenced material to be paraphrased and cited appropriately.  You may reference any computer code that you use using a URL link to the source of the code.
 
-If you need guidance relative to appropriately paraphrasing sources, please see http://saa.lsu.edu/about-paraphrasing.  If you need guidance relative to appropriately citing sources, please see http://www.chicagomanualofstyle.org/tools_citationguide.html.  If you have remaining questions or concerns, I am happy to help you during my office hours.
+If you need guidance relative to appropriately paraphrasing sources, please see [this link](http://saa.lsu.edu/about-paraphrasing).  If you need guidance relative to appropriately citing sources, please see [this link](http://www.chicagomanualofstyle.org/tools_citationguide.html).  If you have remaining questions or concerns, I am happy to help you during my office hours.
 
 You are expected to submit your own work for evaluation (or the work of your group, if a group assignment).
 
