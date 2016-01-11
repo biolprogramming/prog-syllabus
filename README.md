@@ -31,7 +31,7 @@ A wise person once said that **"99% of bioinformatics is learning how to google"
 * [html](http://www.greenteapress.com/thinkpython2/html/index.html)
 * [pdf](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
 
-This is a freely-avialable textbook.  We will follow parts of it for the class.  It is also an invaluable reference text when you need to remind yourself of relatively simple Python details.
+This is a freely-available textbook.  We will follow parts of it for the class.  It is also an invaluable reference text when you need to remind yourself of relatively simple Python details.
 
 ## Primary language
 
@@ -160,7 +160,7 @@ You will have several days after the live demo to fix any remaining problems wit
 28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assign 4 | Assign 3
 2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assign 5 | Assign 4
 4 Feb                 | Functions Part II                 | Chap [6](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.html)      | Assign 6 | Assign 5
-9 Feb (Mardi Gras)    | ---                               | ---         | ---         
+9 Feb                 | **(Mardi Gras)**                  | ---         | ---         
 11 Feb                | Iteration                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assign 7 | Assign 6
 16 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assign 8 | Assign 7
 18 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assign 9 | Assign 8
@@ -172,8 +172,8 @@ You will have several days after the live demo to fix any remaining problems wit
 10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 15 | Assign 14
 15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assign 16 | Assign 15
 17 Mar                | TDD and Documentation             |             | Assign 17 | Assign 16
-22 Mar (Spring Break) | ---                               | ---         | ---         
-24 Mar (Spring Break) | ---                               | ---         | ---         
+22 Mar                | **(Spring Break)**                | ---         | ---         
+24 Mar                | **(Spring Break)**                | ---         | ---         
 29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
 31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 18 | Assign 17
 5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assign 19 | Assign 18
@@ -184,7 +184,7 @@ You will have several days after the live demo to fix any remaining problems wit
 21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 24 | Assign 23
 26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 25 | 24
 28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 25
-30 Apr (Classed end)  | ---                               | ---         | ---
+30 Apr                | **(Classes end)**                 | ---         | ---
 4 May                 | Final Software Projects Due       | ---         | Software project  
 
  <sup><a name="fnote1">1</a></sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
