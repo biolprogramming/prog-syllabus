@@ -162,21 +162,21 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 3 Mar                 | Classes & methods                 | Chap 17     | Assignment 13
 8 Mar                 | Inheritance                       | Chap 18     | Assignment 14
 10 Mar                | The Kitchen Sink                  | Chap 19     | Assignment 15
-15 Mar                | PEP8, programs, modules           | PEP 8       | Assignment 16
-17 Mar                | TDD and Documentation             |             |
+15 Mar                | PEP8, programs, modules           | [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assignment 16
+17 Mar                | TDD and Documentation             |             | Assignment 17
 22 Mar (Spring Break) | ---                               | ---         | ---         
 24 Mar (Spring Break) | ---                               | ---         | ---         
 29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
-31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 17
-5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 18
-7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>*</sup> | Assignment 19
-12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 20
-14 Apr                | BioPython + NCBI                  | ---         | Assignment 21
-19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 22
-21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assignment 23
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assignment 24
+31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 18
+5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 19
+7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<a name="fnote1">1</a>: | Assignment 20
+12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 21
+14 Apr                | BioPython + NCBI                  | ---         | Assignment 22
+19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 23
+21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assignment 24
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assignment 25
 28 Apr                | Software Project Demos            | ---         | Software project demo
 30 Apr (Classed end)  | ---                               | ---         | ---
 4 May                 | Final Software Projects Due       | ---         | Software project
 
-<sup>*</sup> No, I do not expect you to read all 1800+ pages.  Check Chapters 5,6,8,9,10.
+<sup>[1](#fnote1)</sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
