@@ -169,7 +169,7 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 29 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
 31 Mar                | BioPython                         | [BioP Cook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 17
 5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 18
-7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)* | Assignment 19
+7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>*</sup> | Assignment 19
 12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 20
 14 Apr                | BioPython + NCBI                  | ---         | Assignment 21
 19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 22
@@ -179,4 +179,4 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 30 Apr (Classed end)  | ---                               | ---         | ---
 4 May                 | Final Software Projects Due       | ---         | Software project
 
-* No, I do not expect you to read all 1800+ pages.  Check Chapters 5,6,8,9,10.
+<sup>*</sup> No, I do not expect you to read all 1800+ pages.  Check Chapters 5,6,8,9,10.
