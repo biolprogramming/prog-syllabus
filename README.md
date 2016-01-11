@@ -104,7 +104,7 @@ There are no tests.  There are no exams.
 
 ## Course Overview
 
-The course will be a mix of lecture, in-class "active" learning, individual assignments, group assignments, and group projects.  That keeps it fun for all of us.  You will be expected to participate and complete the assignments given to you or your group.  You will also be expected to contribute equally during any and all group work.  **If you do not, I will ensure your grade reflects that lack of participation**.  See [Commitment to Community][] and [Academic Integrity][] regarding my expectations with respect to being civil to your classmates and doing your own work.
+The course will be a mix of lecture, in-class "active" learning, individual assignments, group assignments, and group projects.  That keeps it fun for all of us.  You will be expected to participate and complete the assignments given to you or your group.  You will also be expected to contribute equally during any and all group work.  **If you do not, I will ensure your grade reflects that lack of participation**.  See [Commitment to Community][#commitment-to-community] and [Academic Integrity][#academic-integrity] regarding my expectations with respect to being civil to your classmates and doing your own work.
 
 ### Lecture
 
