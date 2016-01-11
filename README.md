@@ -169,7 +169,7 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
 31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assignment 18
 5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assignment 19
-7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup><a name="fnote1">1</a></sup>| Assignment 20
+7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>| Assignment 20
 12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assignment 21
 14 Apr                | BioPython + NCBI                  | ---         | Assignment 22
 19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assignment 23
@@ -179,4 +179,4 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 30 Apr (Classed end)  | ---                               | ---         | ---
 4 May                 | Final Software Projects Due       | ---         | Software project  
 
-<sup>[1](#fnote1)</sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
+ <sup><a name="fnote1">1</a></sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
