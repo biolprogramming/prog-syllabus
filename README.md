@@ -148,21 +148,21 @@ If I suspect that you have committed Academic Misconduct, I am required to repor
 14 Jan                | Syllabus; Prep; Installations     |             |               
 19 Jan                | Introduction to the CLI           |             | Assignment 1
 21 Jan                | Regular Expressions & Pseudocode  |             | Assignment 2
-26 Jan                | Python Variables/Expressions      | Chap 1 & 2  | Assignment 3
-28 Jan                | Functions Part I                  | Chap 3      | Assignment 4
-2 Feb                 | Conditionals and Recursion        | Chap 5      | Assignment 5
-4 Feb                 | Functions Part II                 | Chap 6      | Assignment 6
+26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assignment 3
+28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assignment 4
+2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assignment 5
+4 Feb                 | Functions Part II                 | Chap [6](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.html)      | Assignment 6
 9 Feb (Mardi Gras)    | ---                               | ---         | ---         
-11 Feb                | Iteration                         | Chap 7      | Assignment 7
-16 Feb                | Strings & Lists                   | Chap 8 & 10 | Assignment 8
-18 Feb                | Dictionaries & Tuples             | Chap 11 & 12| Assignment 9
-23 Feb                | Files                             | Chap 14     | Assignment 10
-25 Feb                | Classes & objects                 | Chap 15     | Assignment 11
-1 Mar                 | Classes & functions               | Chap 16     | Assignment 12
-3 Mar                 | Classes & methods                 | Chap 17     | Assignment 13
-8 Mar                 | Inheritance                       | Chap 18     | Assignment 14
-10 Mar                | The Kitchen Sink                  | Chap 19     | Assignment 15
-15 Mar                | PEP8, programs, modules           | [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assignment 16
+11 Feb                | Iteration                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assignment 7
+16 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assignment 8
+18 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assignment 9
+23 Feb                | Files                             | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assignment 10
+25 Feb                | Classes & objects                 | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html)     | Assignment 11
+1 Mar                 | Classes & functions               | Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html)     | Assignment 12
+3 Mar                 | Classes & methods                 | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html)     | Assignment 13
+8 Mar                 | Inheritance                       | Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html)     | Assignment 14
+10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assignment 15
+15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assignment 16
 17 Mar                | TDD and Documentation             |             | Assignment 17
 22 Mar (Spring Break) | ---                               | ---         | ---         
 24 Mar (Spring Break) | ---                               | ---         | ---         
