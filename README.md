@@ -118,17 +118,17 @@ The course will be a mix of lecture, in-class "active" learning, individual assi
 
 Some portions of our class will be lecture-based.  These lectures will, for the most part, derive from the [Textbook](#textbook) chapter or the URL provided in the [Schedule](#schedule) .  I, of course, will elaborate on some items and focus less on others - as I feel they are appropriate.   It would be wise for you to **read the assigned reading _prior_ to coming to class**.  You may want to read the same chapter, again, after lecture.  Repetition is one key to learning a new language efficiently.
 
-### Class Assignments
+### Class assignments
 
 We will have assignments associated with almost every class period.  To receive credit for those assignments, you will need to turn them in on time. Your grade will be assigned by your classmates, who will be doing a majority of the [Code Reviews](#code-review) for each of your assignments.
 
-### Code Reviews
+### Code reviews
 
 One good way to learning how to write computer code is to read, understand, and test the computer code of others.  To facilitate this learning experience, you are going to be doing "in-house" [code reviews](https://en.wikipedia.org/wiki/Code_review) of each other's assignments.
 
 Two code-reviewers will be assigned systematically to review a given assignment (for a given person). Once a reviewer finishes each code review, they will assigning a "grade" to the classmate they are grading, based on a rubric I provide.
 
-### Software Project Proposal
+### Software project proposal
 
 For your final assignment, you will be responsible for putting together a [Software Project](#software-project) for this class that builds upon what you've learned during the course.
 
@@ -141,13 +141,15 @@ Prior to starting your [Software Project](#software-project) (or your group's [S
 
 This proposal should be heavy on the description of the problem you intend to solve; why it's important; and why it will benefit other people.  The details can be lighter on implementation.
 
-### Software Project
+### Software project
 
 As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you [proposed](#software-project-proposal) for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to move beyond only those things we covered in class.  That could mean writing a software package that uses a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
 
 As part of your software project, you will make a short presentation on the last day of class that described the problem your software package solves, your rational for the approach you used, how you implemented a solution, and gives a (live) example of the program in action.
 
 You will have several days after the live demo to fix any remaining problems with the package and address any comments from your classmates prior to the review of your final project code (your [Software Project](#software-project) is due 4 May).
+
+## Submitting assignments
 
 ## Schedule
 
