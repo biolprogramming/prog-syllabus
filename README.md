@@ -184,7 +184,7 @@ Date                  | Subject                           | Chapter Due | Assign
 17 Mar                | TDD and Documentation             |             | Assign 17 | Assign 16
 22 Mar                | **(Spring Break)**                | ---         | ---   | ---
 24 Mar                | **(Spring Break)**                | ---         | ---   | ---
-29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal
+29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal | ---
 31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 18 | Assign 17
 5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assign 19 | Assign 18
 7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>| Assign 20 | Assign 19
@@ -195,7 +195,7 @@ Date                  | Subject                           | Chapter Due | Assign
 26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 25 | 24
 28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 25
 30 Apr                | **(Classes end)**                 | ---         | --- | ---
-4 May                 | Final Software Projects Due       | ---         | Software project  
+4 May                 | Final Software Projects Due       | ---         | Software project | ---
 
  <sup><a name="fnote1">1</a></sup> No, I do not expect you to read all 1800+ pages.  Read Chapters 5, 6, 8, 9, 10.  Experiment w/ the examples.
 
