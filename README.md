@@ -126,7 +126,7 @@ We will have assignments associated with almost every class period.  To receive 
 
 One good way to learning how to write computer code is to read, understand, and test the computer code of others.  To facilitate this learning experience, you are going to be doing "in-house" [code reviews](https://en.wikipedia.org/wiki/Code_review) of each other's assignments.
 
-Two code-reviewers will be assigned systematically to review a given assignment (for a given person). Once a reviewer finishes each code review, they will assigning a "grade" to the classmate they are grading, based on a rubric I provide.
+Two code-reviewers will be assigned systematically to review a given assignment (for a given person). Once a reviewer finishes each code review, they will assigning a "grade" to the classmate they are grading, based on a rubric I provide.  The rubric will be provided along with the assignment when it is posted on [github][] (e.g. [assingment-1 rubric](https://github.com/biolprogramming/assignment-1/blob/master/RUBRIC.md)).
 
 ### Software project proposal
 
@@ -151,13 +151,29 @@ You will have several days after the live demo to fix any remaining problems wit
 
 ## Submitting assignments
 
+1. Fork and clone the appropriate Assignment repository (e.g. [assingment-1](https://github.com/biolprogramming/assignment-1)) to your computer
+1. Open that repository in [Github Desktop](https://desktop.github.com/)
+1. Create a directory, nested in the **answers** directory **in the cloned, forked assignment repository** that is your **username on github**
+1. Navigate to this directory on your computer
+1. Add the following:
+    * Screenshot of [github][] account
+    * Screenshot of [Slack][] session
+    * Screenshot of [Atom][] installed on your computer
+    * Screenshot showing that you installed [linter-flake8][]
+    * Screenshot of the Anaconda [REPL][] on your computer
+    * You mini-tutorial from [Your first set of programs](#your-first-set-of-programs), above, in ipynb format
+    * A screenshot of everything above, in the repository, displayed by [Github Desktop](https://desktop.github.com/)
+1. Commit all of the changes to your repository
+1. Push/Sync that to Github
+1. Make a pull request to the main [biolprogramming](https://github.com/biolprogramming) repository
+
 ## Schedule
 
 | Date                | Subject                           | Chapter Due | Due             | Code Review
 --------------------  | ------------------------------    | ----------- | --------------- | ---------------
 14 Jan                | Syllabus; Prep; Installations     |             |                 |
-19 Jan                | Introduction to the CLI           |             | Assign 1        |
-21 Jan                | Regular Expressions & Pseudocode  |             | Assign 2        | Assign 1
+19 Jan                | Introduction to the CLI & REPL    | [This](https://github.com/jlevy/the-art-of-command-line) for OSX & [This](http://powershell.com/Mastering-PowerShell.pdf) for Windows | Assign 1        |
+21 Jan                | Regular Expressions & Pseudocode  | [This](http://regexone.com/) and [re module](https://docs.python.org/2/library/re.html)                                               | Assign 2        | Assign 1
 26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assign 3 | Assign 2
 28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assign 4 | Assign 3
 2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assign 5 | Assign 4
