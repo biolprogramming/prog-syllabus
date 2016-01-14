@@ -66,13 +66,12 @@ One requirement of your [Software Project](#software-project) is that you releas
 
 In accordance with the LSU grading policy, grades will be assigned using an A-F scale and the +/- system.  Grading is pretty simple:
 
-                                                | Points          | # of assignments  | % of grade
--------------                                   | -------------   | ----------------- | -------------
+Item                                            | Points          | # of assignments  | % of grade
+--------                                        | -------------   | ----------------- | -------------
 [Class assignments](#class-assignments)         | 15 each         | 25                | 37.5 %
 [Code reviews](#code-reviews)                   | 15 each         | 25                | 37.5 %
 [Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 5.00 %
 [Software Project](#software-project)           | 200 points      | 1                 | 20.0 %
--------------                                   | -------------   | ----------------- | -------------
 Total                                           | 1000 points     | 32                | 100 %
 
 Your [Software Project](#software-project) grade will be assigned based on:
@@ -162,7 +161,7 @@ You will have several days after the live demo to fix any remaining problems wit
 
 ## Schedule
 
-| Date                | Subject                           | Chapter Due | Due             | Code Review
+Date                  | Subject                           | Chapter Due | Assignment Due  |  Code Review
 --------------------  | ------------------------------    | ----------- | --------------- | ---------------
 14 Jan                | Syllabus; Prep; Installations     |             |                 |
 19 Jan                | Introduction to the CLI & REPL    | [This](https://github.com/jlevy/the-art-of-command-line) [OSX] or [This](http://powershell.com/Mastering-PowerShell.pdf) [Win]| Assign 1        |
