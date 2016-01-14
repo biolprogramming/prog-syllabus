@@ -155,14 +155,7 @@ You will have several days after the live demo to fix any remaining problems wit
 1. Open that repository in [Github Desktop](https://desktop.github.com/)
 1. Create a directory, nested in the **answers** directory **in the cloned, forked assignment repository** that is your **username on github**
 1. Navigate to this directory on your computer
-1. Add the following:
-    * Screenshot of [github][] account
-    * Screenshot of [Slack][] session
-    * Screenshot of [Atom][] installed on your computer
-    * Screenshot showing that you installed [linter-flake8][]
-    * Screenshot of the Anaconda [REPL][] on your computer
-    * You mini-tutorial from [Your first set of programs](#your-first-set-of-programs), above, in ipynb format
-    * A screenshot of everything above, in the repository, displayed by [Github Desktop](https://desktop.github.com/)
+1. Add the answers to the assignment questions in the README.md (e.g. https://github.com/biolprogramming/assignment-1)
 1. Commit all of the changes to your repository
 1. Push/Sync that to Github
 1. Make a pull request to the main [biolprogramming](https://github.com/biolprogramming) repository
