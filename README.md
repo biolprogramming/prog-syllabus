@@ -192,7 +192,7 @@ Date                  | Subject                           | Chapter Due | Assign
 14 Apr                | BioPython + NCBI                  | ---         | Assign 22 | Assign 21
 19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assign 23 | Assign 22
 21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 24 | Assign 23
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 25 | 24
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 25 | Assign 24
 28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 25
 30 Apr                | **(Classes end)**                 | ---         | --- | ---
 4 May                 | Final Software Projects Due       | ---         | Software project | ---
