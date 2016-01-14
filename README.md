@@ -172,7 +172,7 @@ You will have several days after the live demo to fix any remaining problems wit
 | Date                | Subject                           | Chapter Due | Due             | Code Review
 --------------------  | ------------------------------    | ----------- | --------------- | ---------------
 14 Jan                | Syllabus; Prep; Installations     |             |                 |
-19 Jan                | Introduction to the CLI & REPL    | [This](https://github.com/jlevy/the-art-of-command-line) [OSX] & [This](http://powershell.com/Mastering-PowerShell.pdf) [Win]| Assign 1        |
+19 Jan                | Introduction to the CLI & REPL    | [This](https://github.com/jlevy/the-art-of-command-line) [OSX/Linux] or [This](http://powershell.com/Mastering-PowerShell.pdf) [Win]| Assign 1        |
 21 Jan                | Regular Expressions & Pseudocode  | [This](http://regexone.com/) and [re module](https://docs.python.org/2/library/re.html)                                               | Assign 2        | Assign 1
 26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assign 3 | Assign 2
 28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assign 4 | Assign 3
