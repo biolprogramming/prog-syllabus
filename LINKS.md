@@ -2,6 +2,14 @@
 
 Here are some lists of links that I have accumulated over the years.  Some are better than others, but most are reasonably useful.  I have tried to subset these by topic, below, but topics are not always so easy to assign.
 
+## Regular Expressions
+
+* [RegexOne](http://regexone.com/)
+* [Onigurama regex formatting](http://oniguruma.rubyforge.org/oniguruma/files/Syntax_txt.html)
+* [Python `re` module](https://docs.python.org/2/library/re.html)
+* [Python regex HOWTO](https://docs.python.org/3.5/howto/regex.html)
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
+
 ## Python: Code formatting
 
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
