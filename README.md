@@ -83,7 +83,9 @@ There is no extra-credit.
 
 ## Grading expectations
 
-A significant portion of this course requires you to read, evaluate, and score the work of others.  The points that you earn for [Code reviews](#code-review) are based on how well you do this code-review.  If you fail to conduct that review or your review is sloppy, you will receive reduced (or zero) points for that [Code review](#code-review) assignment.
+A significant portion of this course requires you to read, evaluate, and evaluate the work of others.  The points that you earn for [Code reviews](#code-review) are based on how well you do this code-review.  If you fail to conduct that review or your review is sloppy, you will receive reduced (or zero) points for that [Code review](#code-review) assignment.
+
+Although your classmates will be evaluating your assignments, I will assess the code review that your perform, as well as your performance on the assignment.  I will assign a final grade for both the assignment and code review, and I will post the grades for each assignment (your submission and your code review) to [moodle](https://moodle.lsu.edu), so that you can track your grade.
 
 ### Grading scale
 
@@ -119,13 +121,15 @@ Some portions of our class will be lecture-based.  These lectures will, for the 
 
 ### Class assignments
 
-We will have assignments associated with almost every class period.  To receive credit for those assignments, you will need to turn them in on time. Your grade will be assigned by your classmates, who will be doing a majority of the [Code Reviews](#code-review) for each of your assignments.
+We will have assignments associated with almost every class period.  To receive credit for those assignments, you will need to turn them in on time. Your submission will be assessed by your classmates, who will be doing [Code Reviews](#code-review) for each of your assignments.  That said, I will assign final grades for all assignments and code reviews, and I will post those to [moodle](https://moodle.lsu.edu).  The score that you receive on any given assignment will be based on a rubric that is located in each assignments directory.
 
 ### Code reviews
 
 One good way to learning how to write computer code is to read, understand, and test the computer code of others.  To facilitate this learning experience, you are going to be doing "in-house" [code reviews](https://en.wikipedia.org/wiki/Code_review) of each other's assignments.
 
 Two code-reviewers will be assigned systematically to review a given assignment (for a given person). Once a reviewer finishes each code review, they will assigning a "grade" to the classmate they are grading, based on a rubric I provide.  The rubric will be provided along with the assignment when it is posted on [github][] (e.g. [assingment-1 rubric](https://github.com/biolprogramming/assignment-1/blob/master/RUBRIC.md)).
+
+I will assess the quality of each code review and assign you a grade for your review.  These reviews will start out relatively simple and get more complex as the course proceeds.
 
 ### Software project proposal
 
