@@ -39,6 +39,7 @@ Here are some lists of links that I have accumulated over the years.  Some are b
 * [quantumrandom](https://pypi.python.org/pypi/quantumrandom/), interface with ANU Quantum Random Number Generator
 * [PyMC](https://github.com/pymc-devs/pymc), Bayesian Stochastic Modelling in Python
 * [click](http://click.pocoo.org/5/), Updated Python Argument Parsing
+* [doit](http://pydoit.org/), python tool for automation (e.g. running pipelines)
 
 ## Python Tutorials
 
