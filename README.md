@@ -171,7 +171,7 @@ Date                  | Subject                           | Chapter Due | Assign
 --------------------  | ------------------------------    | ----------- | --------------- | ---------------
 14 Jan                | Syllabus; Prep; Installations     | ---         | ---             | ---
 19 Jan                | [Introduction to the CLI & REPL](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture1.pdf)    | [This](https://github.com/jlevy/the-art-of-command-line) [OSX] or [This](http://powershell.com/Mastering-PowerShell.pdf) [Win]| Assign 1        |
-21 Jan                | Regular Expressions & Pseudocode  | [This](http://regexone.com/) and [re module](https://docs.python.org/2/library/re.html)                                               | Assign 2        | Assign 1
+21 Jan                | Regular Expressions & Pseudocode  | [This](http://regexone.com/) and [re module](https://docs.python.org/3.5/library/re.html)                                               | Assign 2        | Assign 1
 26 Jan                | Python Variables/Expressions      | Chap [1](http://www.greenteapress.com/thinkpython2/html/thinkpython2002.html) & [2](http://www.greenteapress.com/thinkpython2/html/thinkpython2003.html)  | Assign 3 | Assign 2
 28 Jan                | Functions Part I                  | Chap [3](http://www.greenteapress.com/thinkpython2/html/thinkpython2004.html)      | Assign 4 | Assign 3
 2 Feb                 | Conditionals and Recursion        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assign 5 | Assign 4
