@@ -177,7 +177,7 @@ Date                  | Subject                           | Chapter Due | Assign
 2 Feb                 | [Conditionals and Recursion](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture5.pdf)        | Chap [5](http://www.greenteapress.com/thinkpython2/html/thinkpython2006.html)      | Assign 5 | Assign 4
 4 Feb                 | [Functions Part II](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture6.pdf)                 | Chap [6](http://www.greenteapress.com/thinkpython2/html/thinkpython2007.html)      | Assign 6 | Assign 5
 9 Feb                 | **(Mardi Gras)**                  | ---         | ---   | ---
-11 Feb                | Iteration                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assign 7 | Assign 6
+11 Feb                | [Iteration](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture7.pdf)                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assign 7 | Assign 6
 16 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assign 8 | Assign 7
 18 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assign 9 | Assign 8
 23 Feb                | Files                             | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assign 10 | Assign 9
