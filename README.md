@@ -181,10 +181,10 @@ Date                  | Subject                           | Chapter Due | Assign
 11 Feb                | [Iteration](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture7.pdf)                         | Chap [7](http://www.greenteapress.com/thinkpython2/html/thinkpython2008.html)      | Assign 7 | Assign 6
 16 Feb                | Class was cancelled               | ---         | ---   | ---
 18 Feb                | Class was cancelled               | ---         | ---   | ---
-23 Feb                | Strings & Lists                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assign 8 | Assign 7
+23 Feb                | [Strings & Lists](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture8.pdf)                   | Chap [8](http://www.greenteapress.com/thinkpython2/html/thinkpython2009.html) & [10](http://www.greenteapress.com/thinkpython2/html/thinkpython2011.html) | Assign 8 | Assign 7
 25 Feb                | Dictionaries & Tuples             | Chap [11](http://www.greenteapress.com/thinkpython2/html/thinkpython2012.html) & [12](http://www.greenteapress.com/thinkpython2/html/thinkpython2013.html)| Assign 9 | Assign 8
-1 Mar                | Files                             | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assign 10 | Assign 9
-3 Mar                | Classes & objects                 | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html) & Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html) | Assign 11 | Assign 10
+1 Mar                 | Files                              | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assign 10 | Assign 9
+3 Mar                 | Classes & objects                  | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html) & Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html) | Assign 11 | Assign 10
 8 Mar                 | Classes & methods                 | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html) & Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html) | Assign 12 | Assign 11
 10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 13 | Assign 12
 15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assign 14 | Assign 13
