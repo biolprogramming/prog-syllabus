@@ -138,7 +138,7 @@ I will assess the quality of each code review and assign you a grade for your re
 
 For your final assignment, you will be responsible for putting together a [Software Project](#software-project) for this class that builds upon what you've learned during the course.
 
-Prior to starting your [Software Project](#software-project) (or your group's [Software Project](#software-project)), and about half-way through the course, you will write a 2-page proposal that:
+Prior to starting your [Software Project](#software-project) (or your group's [Software Project](#software-project)), and about half-way through the course (due Mar 29), you will write a 2-page proposal that:
 
 * Describes the problem your [Software Project](#software-project) will attempt to solve
 * Gives the rational for the solution you propose
