@@ -186,7 +186,7 @@ Date                  | Subject                           | Chapter Due | Assign
 1 Mar                 | [Files](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture10.pdf)                            | Chap [14](http://www.greenteapress.com/thinkpython2/html/thinkpython2015.html)     | Assign 10 | Assign 9
 3 Mar                 | [Classes & objects](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture11.pdf)                | Chap [15](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html) & Chap [16](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html) | Assign 11 | Assign 10
 8 Mar                 | [Classes & methods](https://github.com/biolprogramming/syllabus/blob/master/lectures/Lecture12.pdf)                | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html) & Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html) | Assign 12 | Assign 11
-10 Mar                | The Kitchen Sink                  | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 13 | Assign 12
+10 Mar                | [The Kitchen Sink](http://biolprogramming.s3.amazonaws.com/Lecture13.pdf)                                          | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 13 | Assign 12
 15 Mar                | PEP8, programs, modules, practices| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assign 14 | Assign 13
 17 Mar                | TDD and Documentation             |             | Assign 15 | Assign 14
 22 Mar                | **(Spring Break)**                | ---         | ---   | ---
