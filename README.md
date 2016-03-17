@@ -188,7 +188,7 @@ Date                  | Subject                           | Chapter Due | Assign
 8 Mar                 | [Classes & methods](http://biolprogramming.s3.amazonaws.com/Lecture12.pdf)                | Chap [17](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html) & Chap [18](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html) | Assign 12 | Assign 11
 10 Mar                | [The Kitchen Sink](http://biolprogramming.s3.amazonaws.com/Lecture13.pdf)                                          | Chap [19](http://www.greenteapress.com/thinkpython2/html/thinkpython2020.html)     | Assign 13 | Assign 12
 15 Mar                | [PEP8, programs, modules, practices](http://biolprogramming.s3.amazonaws.com/Lecture14.pdf)| [PEP 8](https://www.python.org/dev/peps/pep-0008/) | Assign 14 | Assign 13
-17 Mar                | TDD and Documentation             |             | Assign 15 | Assign 14
+17 Mar                | [TDD and Documentation](http://biolprogramming.s3.amazonaws.com/Lecture15.pdf)             |             | Assign 15 | Assign 14
 22 Mar                | **(Spring Break)**                | ---         | ---   | ---
 24 Mar                | **(Spring Break)**                | ---         | ---   | ---
 29 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal | ---
