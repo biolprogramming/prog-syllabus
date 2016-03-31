@@ -68,12 +68,14 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
 Item                                            | Points          | # of assignments  | % of grade
 --------                                        | -------------   | ----------------- | -------------
-[Class assignments](#class-assignments)         | 15 each         | 23                | 34.5 %
-[Code reviews](#code-reviews)                   | 15 each         | 23                | 34.5 %
+[Class assignments](#class-assignments)         | 15 each         | 22                | 33.0 %
+[Code reviews](#code-reviews)                   | 15 each         | 22                | 33.0 %
 [Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 5.00 %
 [Software Project Presentation](#software-project) | 60 points    | 1                 | 6.00 %
 [Software Project](#software-project)           | 200 points      | 1                 | 20.0 %
+Bonus                                           | 15 points       |                   |  1.5 % 
 Total                                           | 1000 points     |                   | 100 %
+
 
 Your [Software Project](#software-project) grade will be assigned based on:
 
@@ -192,15 +194,15 @@ Date                  | Subject                           | Chapter Due | Assign
 22 Mar                | **(Spring Break)**                | ---         | ---   | ---
 24 Mar                | **(Spring Break)**                | ---         | ---   | ---
 29 Mar                | [BioPython](http://biolprogramming.s3.amazonaws.com/Lecture16.pdf)                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal | ---
-31 Mar                | BioPython                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 16 | Assign 15
-5 Apr                 | numpy                             | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/)     | Assign 17 | Assign 16
-7 Apr                 | numpy + pandas                    | [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>| Assign 18 | Assign 17
-12 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)        | Assign 19 | Assign 18
-14 Apr                | BioPython + NCBI                  | ---         | Assign 20 | Assign 19
-19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assign 21 | Assign 20
-21 Apr                | itertools & sqlite3               | [itertools](https://docs.python.org/3.5/library/itertools.html) & [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 22 | Assign 21
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 23 | Assign 22
-28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 23
+31 Mar                | [BioPython](http://biolprogramming.s3.amazonaws.com/Lecture17.pdf)                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 16 | Assign 15
+5 Apr                 | BioPython + NCBI                  | ---                                                                                                                                    | Assign 17 | Assign 16
+7 Apr                 | No Class                          | ---         | ---   | ---
+12 Apr                | numpy + pandas                    | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/) & [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>        | Assign 18 | Assign 17
+14 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)         | Assign 19 | Assign 18
+19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assign 20 | Assign 19
+21 Apr                | sqlite3                           | [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 21 | Assign 20
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 22 | Assign 21
+28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 22
 30 Apr                | **(Classes end)**                 | ---         | --- | ---
 4 May                 | Final Software Projects Due       | ---         | Software project | ---
 
