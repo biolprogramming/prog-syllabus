@@ -195,7 +195,7 @@ Date                  | Subject                           | Chapter Due | Assign
 24 Mar                | **(Spring Break)**                | ---         | ---   | ---
 29 Mar                | [BioPython](http://biolprogramming.s3.amazonaws.com/Lecture16.pdf)                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Project proposal | ---
 31 Mar                | [BioPython](http://biolprogramming.s3.amazonaws.com/Lecture17.pdf)                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 16 | Assign 15
-5 Apr                 | BioPython + NCBI                  | ---                                                                                                                                    | Assign 17 | Assign 16
+5 Apr                 | [BioPython + NCBI](http://biolprogramming.s3.amazonaws.com/Lecture18.pdf)                  | ---                                                                                                                                    | Assign 17 | Assign 16
 7 Apr                 | No Class                          | ---         | ---   | ---
 12 Apr                | numpy + pandas                    | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/) & [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>        | Assign 18 | Assign 17
 14 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)         | Assign 19 | Assign 18
