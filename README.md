@@ -68,13 +68,13 @@ In accordance with the LSU grading policy, grades will be assigned using an A-F 
 
 Item                                            | Points          | # of assignments  | % of grade
 --------                                        | -------------   | ----------------- | -------------
-[Class assignments](#class-assignments)         | 15 each         | 22                | 33.0 %
-[Code reviews](#code-reviews)                   | 15 each         | 22                | 33.0 %
-[Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 5.00 %
-[Software Project Presentation](#software-project) | 60 points    | 1                 | 6.00 %
-[Software Project](#software-project)           | 200 points      | 1                 | 20.0 %
-Bonus                                           | 15 points       |                   |  1.5 % 
-Total                                           | 1000 points     |                   | 100 %
+[Class assignments](#class-assignments)         | 15 each         | 19                | 33.0 %
+[Code reviews](#code-reviews)                   | 15 each         | 19                | 33.0 %
+[Project Proposal](#software-project-proposal)  | 50 points       | 1                 | 6.00 %
+[Software Project Presentation](#software-project) | 30 points    | 1                 | 3.50 %
+[Software Project](#software-project)           | 200 points      | 1                 | 24.0 %
+Bonus                                           | 15 points       |                   |   -- % 
+Total                                           | 850 points      |                   | 100 %
 
 
 Your [Software Project](#software-project) grade will be assigned based on:
@@ -210,10 +210,10 @@ Date                  | Subject                           | Chapter Due | Assign
 7 Apr                 | No Class                          | ---         | ---   | ---
 12 Apr                | numpy + pandas                    | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/) & [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>        | Assign 18 | Assign 17
 14 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)         | Assign 19 | Assign 18
-19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | Assign 20 | Assign 19
-21 Apr                | sqlite3                           | [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | Assign 21 | Assign 20
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| Assign 22 | Assign 21
-28 Apr                | Software Project Demos            | ---         | Software project demo | Assign 22
+19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | --- | Assign 19
+21 Apr                | sqlite3                           | [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | --- | ---
+26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| --- | ---
+28 Apr                | Software Project Demos            | ---         | Software project demo | ---
 30 Apr                | **(Classes end)**                 | ---         | --- | ---
 4 May                 | Final Software Projects Due       | ---         | Software project | ---
 
