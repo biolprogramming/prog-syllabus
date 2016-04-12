@@ -149,6 +149,17 @@ Prior to starting your [Software Project](#software-project) (or your group's [S
 
 This proposal should be heavy on the description of the problem you intend to solve; why it's important; and why it will benefit other people.  The details can be lighter on implementation.
 
+Component                              | Points
+---------------------------------------|----------------------
+Documentation                                             | 50
+Example included                                          | 50
+Program is formatted correctly (PEP8)                     | 25
+Program accomplishes main tasks outlined in proposal      | 75
+
+Documentation for the class project should either be included as a `README.md` or you should structure your repository such that documentation is available at [ReadTheDocs](https://readthedocs.org/).
+
+The Documentation should also explain how to run the example data through the program.  You can more easily upload example data to a site like [FigShare](https://figshare.com/), and instruct your users to download those data.  Alternatively, you can put your data in your github repository using [Git Large File Storage](https://git-lfs.github.com/).  You **do not** want to store large files directly in your repository (e.g. by "committing them").
+
 ### Software project
 
 As mentioned above, your final assignment of this course will be to complete the [Software Project](#software-project) you [proposed](#software-project-proposal) for this class.  This [Software Project](#software-project) should build upon what you've learned during class but it is also **very important** that the [Software Project](#software-project) incorporate things that we did not explicitly cover in class - your goal here is to move beyond only those things we covered in class.  That could mean writing a software package that uses a new package that we never covered, creating a new package to use, scraping parts of the web in interesting ways, etc.
