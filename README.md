@@ -208,9 +208,9 @@ Date                  | Subject                           | Chapter Due | Assign
 31 Mar                | [BioPython](http://biolprogramming.s3.amazonaws.com/Lecture17.pdf)                         | [BioPython Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)   | Assign 16 | Assign 15
 5 Apr                 | [BioPython + NCBI](http://biolprogramming.s3.amazonaws.com/Lecture18.pdf)                  | ---                                                                                                                                    | Assign 17 | Assign 16
 7 Apr                 | No Class                          | ---         | ---   | ---
-12 Apr                | numpy + pandas                    | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/) & [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>        | Assign 18 | Assign 17
-14 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)         | Assign 19 | Assign 18
-19 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)    | --- | Assign 19
+12 Apr                | [numpy + pandas](http://biolprogramming.s3.amazonaws.com/Lecture19.pdf)                    | [numpy user guide](http://docs.scipy.org/doc/numpy-1.10.1/user/) & [pandas user guide](http://pandas.pydata.org/pandas-docs/version/0.17.1/pandas.pdf)<sup>[1](#fnote1)</sup>        | Assign 18 | Assign 17
+14 Apr                | subprocess                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)         | Assign 19 | Assign 18
+19 Apr                | requests                          | [requests manual](http://docs.python-requests.org/en/latest/)    | --- | Assign 19
 21 Apr                | sqlite3                           | [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | --- | ---
 26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| --- | ---
 28 Apr                | Software Project Demos            | ---         | Software project demo | ---
