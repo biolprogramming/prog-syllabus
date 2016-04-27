@@ -212,7 +212,7 @@ Date                  | Subject                           | Chapter Due | Assign
 14 Apr                | [subprocess](http://biolprogramming.s3.amazonaws.com/Lecture20.pdf)                        | [subprocess](https://docs.python.org/3.5/library/subprocess.html)         | Assign 19 | Assign 18
 19 Apr                | [requests](http://biolprogramming.s3.amazonaws.com/Lecture21.pdf)                          | [requests manual](http://docs.python-requests.org/en/latest/)    | --- | Assign 19
 21 Apr                | [sqlite3](http://biolprogramming.s3.amazonaws.com/Lecture22.pdf)                           | [sqlite3](https://docs.python.org/3.5/library/sqlite3.html) | --- | ---
-26 Apr                | speed, timing, and multiprocessing| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| --- | ---
+26 Apr                | [speed, timing, and multiprocessing](http://biolprogramming.s3.amazonaws.com/Lecture23.pdf)| [timeit](https://docs.python.org/3.5/library/timeit.html) & [multiprocessing](https://docs.python.org/3.5/library/multiprocessing.html)| --- | ---
 28 Apr                | Software Project Demos            | ---         | Software project demo | ---
 30 Apr                | **(Classes end)**                 | ---         | --- | ---
 4 May                 | Final Software Projects Due       | ---         | Software project | ---
