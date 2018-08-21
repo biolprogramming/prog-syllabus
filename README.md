@@ -1,7 +1,7 @@
 # Computer Programming for Biologists
 
 * **Course:** [BIOL 7800, LSU](http://catalog.lsu.edu/preview_course_nopop.php?catoid=1&coid=1001)
-* **Time/Location:** T/Th, 9:00 - 10:20 AM and W, 9:30 - 10:20 AM | 0118 Prescott
+* **Time/Location:** T/Th, 9:00 - 10:20 AM | PFT 1246; W, 9:30 - 10:20 AM | PFT 1131
 * **Instructor:** [Brant Faircloth](https://github.com/brantfaircloth/)
 * **Need help?**
     * [Slack](https://biolprogramming.slack.com), don't email
